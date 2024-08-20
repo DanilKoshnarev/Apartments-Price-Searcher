@@ -1,0 +1,17 @@
+{
+  "Kyiv": [
+    "Khreshchatyk Street",
+    "Bohdana Khmelnytskoho Street",
+    "Saksahanskoho Street"
+  ],
+  "Lviv": [
+    "Svobody Avenue",
+    "Shevchenka Avenue",
+    "Horodotska Street"
+  ],
+  "Odessa": [
+    "Deribasovskaya Street",
+    "Primorsky Boulevard",
+    "Rishelyevskaya Street"
+  ]
+}
